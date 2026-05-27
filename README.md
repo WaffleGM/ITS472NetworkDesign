@@ -1,1 +1,1 @@
-# ITS472NetworkDesign
+This is the reporting of a CISCO-based network developed on real hardware for Purdue Northwest's Network Design class. As instructed, the network utlizes RIPv1, RIPv2, OSPF, serial connections, and the self-hosting of Ubuntu web and FTP servers. Included is the project report and the early topology planned out in CISCO Packet Tracer.
